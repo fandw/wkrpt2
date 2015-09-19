@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2014.5.2)  15 MAY 2014 21:58
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2014.5.2)  17 SEP 2015 21:38
 entering extended mode
 **wkrpt.tex
-(W:\GitHub\wkrpt1\wkrpt.tex
+(W:\GitHub\wkrpt2\wkrpt.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -31,7 +31,7 @@ Requested font "cmr12" at 12.0pt
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(W:\GitHub\wkrpt1\wkrpt.sty
+(W:\GitHub\wkrpt2\wkrpt.sty
 (W:\Dev_Applications\MikTeX\tex\latex\fontspec\fontspec.sty
 Package: fontspec 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLaTeX
 
@@ -597,7 +597,7 @@ Package color Info: Driver file: xetex.def on input line 130.
 (W:\Dev_Applications\MikTeX\tex\latex\listings\lstlang1.sty
 File: lstlang1.sty 2014/03/04 1.5c listings language file
 ))
-(W:\GitHub\wkrpt1\wkrpt.aux
+(W:\GitHub\wkrpt2\wkrpt.aux
 
 LaTeX Warning: Label `overflow' multiply defined.
 
@@ -764,7 +764,7 @@ t;" at 14.4pt
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
  []
 
@@ -772,27 +772,22 @@ Requested font "Times New Roman/I/ICU:script=latn;language=DFLT;mapping=tex-tex
 t;" at 12.0pt
  -> C:/Windows/Fonts/timesi.ttf
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
  []
 
@@ -801,22 +796,22 @@ Requested font "Times New Roman/B/ICU:script=latn;language=DFLT;mapping=tex-tex
 t;" at 16.0pt
  -> C:/Windows/Fonts/timesbd.ttf
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--50
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
@@ -827,7 +822,7 @@ Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
 Requested font "Times New Roman/B/ICU:script=latn;language=DFLT;mapping=tex-tex
 t;" at 17.28pt
  -> C:/Windows/Fonts/timesbd.ttf
- (W:\GitHub\wkrpt1\wkrpt.toc
+ (W:\GitHub\wkrpt2\wkrpt.toc
 Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
 " at 8.0pt
  -> C:/Windows/Fonts/times.ttf
@@ -850,27 +845,27 @@ Requested font "cmr8" at 8.0pt
 Requested font "cmr6" at 6.0pt
 )
 \tf@toc=\write3
- [4] (W:\GitHub\wkrpt1\wkrpt.lof)
+ [4] (W:\GitHub\wkrpt2\wkrpt.lof)
 \tf@lof=\write4
  [5]
-(W:\GitHub\wkrpt1\wkrpt.lot)
+(W:\GitHub\wkrpt2\wkrpt.lot)
 \tf@lot=\write5
  [6]
 Missing character: There is no ， in font Times New Roman/OT:script=latn;languag
 e=DFLT;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 File: img/agile.png Graphic file (type QTm)
 <use  "img/agile.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 83--86
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
 
@@ -880,7 +875,7 @@ t;" at 14.0pt
  -> C:/Windows/Fonts/timesbd.ttf
 File: img/three_tier.jpg Graphic file (type QTm)
  <use  "img/three_tier.jpg" >
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
@@ -888,7 +883,7 @@ File: img/ui.jpg Graphic file (type QTm)
 <use  "img/ui.jpg" > [3]
 File: img/soapui.jpg Graphic file (type QTm)
  <use  "img/soapui.jpg" >
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
@@ -896,7 +891,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
 " at 10.95pt
  -> C:/Windows/Fonts/times.ttf
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 127
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 122
 .
  (W:\Dev_Applications\MikTeX\tex\latex\euenc\eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -904,125 +899,125 @@ File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 Requested font "[lmmono10-regular]" at 10.95pt
  -> W:/Dev_Applications/MikTeX/fonts/opentype/public/lm/lmmono10-regular.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 [5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
 File: img/timeTable.jpg Graphic file (type QTm)
 <use  "img/timeTable.jpg" >
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
 
 File: img/timeGraph.jpg Graphic file (type QTm)
 <use  "img/timeGraph.jpg" >
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
 
 File: img/soapAuto.jpg Graphic file (type QTm)
 <use  "img/soapAuto.jpg" >
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--209
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 214--216
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
 
  []
 
 [11] [12] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
 [15]
 No file wkrpt.bbl.
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
 []\EU1/TimesNewRoman(0)/m/n/12 W3C Note, ”Simple Object Access Protocol (SOAP) 
 1.1,” W3C Note,
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 256--257
+Underfull \hbox (badness 2698) in paragraph at lines 251--252
 []\EU1/TimesNewRoman(0)/m/n/12 Microsoft Corp., ”Unit Testing,” MSDN - Microsof
 t, \EU1/TimesNewRoman(0)/m/it/12 http://msdn.microsoft.com/en-
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 260--262
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
+Underfull \hbox (badness 10000) in paragraph at lines 260--262
 
  []
 
 [17]
 File: img/wsdl.jpg Graphic file (type QTm)
  <use  "img/wsdl.jpg" >
-Overfull \hbox (56.88387pt too wide) in paragraph at lines 274--275
+Overfull \hbox (56.88387pt too wide) in paragraph at lines 268--269
  [][] 
  []
 
-[1] [1] [1] (W:\GitHub\wkrpt1\wkrpt.aux)
+[1] [1] [1] (W:\GitHub\wkrpt2\wkrpt.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
